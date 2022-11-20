@@ -1,0 +1,1414 @@
+1
+Southern Copperhead
+Agkistrodon contortrix contortix
+Reptile
+Diurnal
+4.0
+4.5
+0.5
+0.75
+18.0
+Woodlands and rocky hillsides
+Small mammals, birds, frogs, and insects
+Central and Eastern United States
+https://upload.wikimedia.org/wikipedia/commons/c/ce/Copperhead_%28Agkistrodon_contortrix%29_photographed_in_Liberty_Co.%2C_Texas._W._L._Farr.jpg
+2
+Serval
+Leptailurus serval
+Mammal
+Nocturnal
+2.3
+3.3
+7.5
+41.0
+13.0
+Savannah
+Game birds, rodents, small ungulates
+Africa
+https://upload.wikimedia.org/wikipedia/commons/7/70/Leptailurus_serval_-Serengeti_National_Park%2C_Tanzania-8.jpg
+3
+Crested Coua
+Coua cristata
+Bird
+Diurnal
+1.3
+1.5
+0.2
+0.23
+15.0
+Forest, savanna, and shrubland habitats
+Insects, fruits, berries, seeds, snails and chameleons
+Madagascar
+https://upload.wikimedia.org/wikipedia/commons/3/3d/Crested_Coua_RWD3.jpg
+4
+Red-capped Cardinal
+Paroaria coronata
+Bird
+Diurnal
+0.54
+0.55
+0.49
+0.51
+6.0
+Scrubland
+Seeds and invertebrates
+South America from Brazil to Argentina
+https://upload.wikimedia.org/wikipedia/commons/a/ae/Paroaria_gularis%2C_Red-capped_Cardinal.jpg
+5
+Eastern Diamondback Rattlesnake
+Crotalus adamanteus
+Reptile
+Diurnal
+5.0
+8.0
+10.0
+20.0
+20.0
+Woodland, field, wetland, and scrubland
+Rabbits, squirrels and other rodents, and birds
+Southeastern United States
+https://upload.wikimedia.org/wikipedia/commons/b/bc/Crotalus_adamanteus_25.jpg
+6
+Llama
+Lama glama
+Mammal
+Diurnal
+5.6
+5.9
+285.0
+340.0
+25.0
+High plateau
+Grass
+Andes Mountains of South America
+https://upload.wikimedia.org/wikipedia/commons/c/cd/Black_Llama.jpg
+7
+Alpaca
+Vicugna pacos
+Mammal
+Diurnal
+3.0
+3.5
+120.0
+145.0
+25.0
+Grasslands
+Grass
+South America
+https://upload.wikimedia.org/wikipedia/commons/d/db/Alpaca_%2831562329701%29.jpg
+8
+Cape Porcupine
+Hystrix africaeaustralis
+Mammal
+Nocturnal
+2.5
+3.0
+40.0
+65.0
+15.0
+Savannah, scrubland and forest
+Fruit, roots, tubers and bulbs
+Central and Southern Africa
+https://upload.wikimedia.org/wikipedia/commons/b/b4/Hystrix_africaeaustralis_Blijdorp_Rotterdam.JPG
+9
+Cheetah
+Acinonyx jubatus
+Mammal
+Nocturnal
+2.3
+2.6
+65.0
+120.0
+11.0
+Savannah and dry forest
+Small antelope, warthogs, hares, and game birds
+Africa and Western Asia
+https://upload.wikimedia.org/wikipedia/commons/0/09/TheCheethcat.jpg
+10
+Aardwolf
+Proteles cristatus
+Mammal
+Nocturnal
+2.8
+3.4
+17.6
+22.0
+14.0
+Savannah
+Termites
+Africa
+https://upload.wikimedia.org/wikipedia/commons/0/0b/Proteles_cristatus1.jpg
+11
+Grey Fox
+Urocyon cinereoargenteus
+Mammal
+Nocturnal
+1.8
+2.7
+6.5
+15.0
+13.0
+Woodland
+Small mammals and birds, some fruits and seeds
+Southern Canada to northern South America
+https://upload.wikimedia.org/wikipedia/commons/6/63/Grey_Fox_%28Urocyon_cinereoargenteus%29.jpg
+12
+Brazilian Porcupine
+Coendou prehensilis
+Mammal
+Nocturnal
+1.5
+1.7
+9.0
+11.0
+17.0
+Tropical rainforest
+Leaves, bark, fruits, shoots and small animals
+Northern and eastern South America
+https://upload.wikimedia.org/wikipedia/commons/c/c5/Prehensile-tailed_porcupine.jpg
+13
+Thomson's Gazelle
+Eudorcas thomsoni
+Mammal
+Diurnal
+2.6
+3.9
+33.0
+77.0
+15.0
+Savannah
+Grass, herbs, leaves and seeds
+East Africa
+https://upload.wikimedia.org/wikipedia/commons/6/64/Gazella_thomsoni_in_Masai_Mara.jpg
+14
+Sumatran Orangutan
+Pongo pygmaeus abelii
+Mammal
+Diurnal
+2.5
+2.7
+88.0
+200.0
+28.0
+Tropical rainforest
+Fruit, shoots, bark, insects, vines, bird eggs, and small vertebrates
+Northern Sumatra
+https://upload.wikimedia.org/wikipedia/commons/2/2c/Sumatra-Orang-Utan_im_Pongoland.jpg
+15
+Meerkat
+Suricata suricatta
+Mammal
+Diurnal
+0.9
+1.0
+1.5
+2.0
+9.0
+Savannah
+Insects, lizards, scorpions, and other small animals
+Southern Africa
+https://upload.wikimedia.org/wikipedia/commons/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg
+16
+Southern Copperhead
+Agkistrodon contortrix contortix
+Reptile
+Diurnal
+4.0
+4.5
+0.5
+0.75
+18.0
+Woodlands and rocky hillsides
+Small mammals, birds, frogs, and insects
+Central and Eastern United States
+https://upload.wikimedia.org/wikipedia/commons/c/ce/Copperhead_%28Agkistrodon_contortrix%29_photographed_in_Liberty_Co.%2C_Texas._W._L._Farr.jpg
+17
+Blue-crowned Laughing Thrush
+Garrulax galbanus courtoisi
+Bird
+Diurnal
+0.7
+0.8
+0.1
+0.15
+30.0
+Grassland and scrubland
+Fruits, berries, and insects
+Southern Asia
+https://upload.wikimedia.org/wikipedia/commons/8/84/Blue-crowned_Laughingthrush_10.jpg
+18
+Andean Condor
+Vultur gryphus
+Bird
+Diurnal
+3.3
+4.3
+18.0
+33.0
+46.0
+Desert, mountains, grasslands and coasts
+Carrion
+Western South America
+https://upload.wikimedia.org/wikipedia/commons/8/81/Vultur_gryphus_-Dou%C3%A9-la-Fontaine_Zoo%2C_France-8a.jpg
+19
+Lesser Kudu
+Tragelaphus imberbis
+Mammal
+Nocturnal
+5.2
+5.7
+121.0
+243.0
+15.0
+Shrubland, woodland and savannah
+Leaves, twigs, fruit and seed pods
+East Africa
+https://upload.wikimedia.org/wikipedia/commons/b/b8/Lesser_Kudu_Male_%28Tragelaphus_imberbis%29.jpg
+20
+Ornate Horned Frog
+Ceratophrys ornata
+Reptile
+Diurnal
+0.25
+5.0
+0.85
+1.0
+6.0
+Rainforest
+Lizards, mice, frogs, insects, and other small animals
+Argentina, Uruguay, and southern Brazil
+https://upload.wikimedia.org/wikipedia/commons/2/2b/Mr_Wiggles_7-20-07_%28870844637%29.jpg
+21
+Parma Wallaby
+Macropus parma
+Marsupial
+Diurnal
+1.5
+2.0
+10.0
+11.0
+7.0
+Forest and grassland
+Grass
+Australia and New Zealand
+https://upload.wikimedia.org/wikipedia/commons/a/a2/Parma_wallaby_crop2.jpg
+22
+Malayan Tiger
+Panthera tigris jacksoni
+Mammal
+Nocturnal
+7.6
+9.3
+220.0
+400.0
+15.0
+Forest
+Deer, wild pigs, and cattle
+Malaysia and southern Thailand
+https://upload.wikimedia.org/wikipedia/commons/6/62/MalayanTiger01.jpg
+23
+Atlantic Puffin
+Fratercula
+Bird
+Diurnal
+0.8
+0.83
+0.81
+0.75
+20.0
+Ocean cliffs
+Fish, mollusks and crustaceans
+North Atlantic Ocean
+https://upload.wikimedia.org/wikipedia/commons/c/c4/Puffin_%28Fratercula_arctica%29.jpg
+24
+Major Mitchell's Cockatoo
+Cacatua leadbeateri
+Bird
+Diurnal
+1.0
+1.2
+0.9
+0.95
+60.0
+Forest and grassland
+Seeds, nuts, fruits, berries, and roots
+Australia
+https://upload.wikimedia.org/wikipedia/commons/7/74/Major_Mitchell%27s_Cockatoo_1_-_Mt_Grenfell.jpg
+25
+Angolan Colobus Monkey
+Colobus angolensis
+Mammal
+Diurnal
+1.2
+2.2
+13.0
+25.0
+18.0
+Forest and savannah
+Leaves, fruit, and seeds
+Tanzania
+https://upload.wikimedia.org/wikipedia/commons/5/5a/Colobus_angolensis.jpg
+26
+Hamerkop
+Scopus umbretta
+Bird
+Diurnal
+1.6
+1.8
+0.8
+1.0
+20.0
+Wetland, woodland, and savannah
+Frogs, fish, crustaceans, worms, and insects
+Sub-Saharan Africa, Madagascar, and southwestern Asia
+https://upload.wikimedia.org/wikipedia/commons/2/27/Hamerkop_%28Scopus_umbretta_umbretta%29.jpg
+27
+Fire-bellied newt
+Cynops pyrrhogaster pyrrhogaster
+Amphibian
+Nocturnal
+0.35
+0.5
+0.004
+0.004
+25.0
+Ponds, stream pools and lakes
+Aquatic invertebrates
+Japan
+https://upload.wikimedia.org/wikipedia/commons/3/3f/Cynops_ensicauda_popei.jpg
+28
+Nigerian Dwarf Goat
+Capra aegagrus hircus
+Mammal
+Diurnal
+1.67
+1.88
+70.0
+75.0
+20.0
+Domestic habitat
+Hay and grain
+Raised domestically around the world
+https://upload.wikimedia.org/wikipedia/commons/f/fc/Nigerdwarfgoat.jpg
+29
+Lesser Kudu
+Tragelaphus imberbis
+Mammal
+Nocturnal
+5.2
+5.7
+121.0
+243.0
+15.0
+Shrubland, woodland and savannah
+Leaves, twigs, fruit and seed pods
+East Africa
+https://upload.wikimedia.org/wikipedia/commons/b/b8/Lesser_Kudu_Male_%28Tragelaphus_imberbis%29.jpg
+30
+Chinese Crocodile Lizard
+Shinisaurus crocodilurus
+Reptile
+Diurnal
+0.55
+0.63
+0.7
+1.3
+10.0
+Forests near ponds and streams
+Snails, insects, worms, and other invertebrates
+China and Vietnam
+https://upload.wikimedia.org/wikipedia/commons/d/d7/Shinisaurus_crocodilurus_10.jpg
+49
+Yellow Rat Snake
+Pantherophis alleghaniensis
+Reptile
+Nocturnal
+3.0
+6.0
+1.2
+1.8
+20.0
+Woods, fields, and swamps
+Rodents, birds, eggs, lizards, frogs, and insects
+Southeastern United States
+https://upload.wikimedia.org/wikipedia/commons/d/de/Pantherophis_alleghaniensis_ssp._quadrivittata_03.JPG
+50
+White Lion
+Panthera leo
+Mammal
+Diurnal
+5.0
+10.0
+270.0
+530.0
+18.0
+Savannah,  woodland and desert
+Hoofed mammals, hares, small birds and reptiles
+Timbavati, South Africa
+https://upload.wikimedia.org/wikipedia/commons/2/2f/White_Lion444.jpg
+51
+Coquerel's Sifaka
+Propithecus coquereli
+Mammal
+Diurnal
+1.4
+1.7
+7.5
+11.0
+11.0
+Forest
+Leaves, fruit, and flowers
+Northwestern Madagascar
+https://upload.wikimedia.org/wikipedia/commons/4/4e/Propithecus_coquereli_02.jpg
+52
+Crested Coua
+Coua cristata
+Bird
+Diurnal
+1.3
+1.5
+0.2
+0.23
+15.0
+Forest, savanna, and shrubland habitats
+Insects, fruits, berries, seeds, snails and chameleons
+Madagascar
+https://upload.wikimedia.org/wikipedia/commons/3/3d/Crested_Coua_RWD3.jpg
+53
+Emerald Tree Boa
+Corallus caninus
+Reptile
+Nocturnal
+4.0
+6.0
+2.0
+4.0
+15.0
+Tropical rainforest
+Rodents and other small animals
+South America
+https://upload.wikimedia.org/wikipedia/commons/1/16/Emerald_Tree_Boa_Wrapped_on_a_Branch_2480px.jpg
+54
+Black-footed Cat
+Felis nigripes
+Mammal
+Nocturnal
+1.1
+1.7
+3.3
+6.5
+5.0
+Desert, savannah, and scrubland
+Mice, insects, spiders, lizards, and birds
+Southern Africa
+https://upload.wikimedia.org/wikipedia/commons/d/da/Zoo_Wuppertal_Schwarzfusskatze.jpg
+55
+White-cheeked Bulbul
+Pycnonotus leucotis
+Bird
+Diurnal
+0.58
+0.63
+0.05
+0.06
+9.0
+Grassland, shrubland and woodland
+Fruit and insects
+Middle East and Western Asia
+https://upload.wikimedia.org/wikipedia/commons/3/3b/White-eared_bulbul.jpg
+56
+Rhinoceros Hornbill
+Buceros rhinoceros
+Bird
+Diurnal
+3.13
+3.46
+4.5
+6.5
+35.0
+Forest
+Fruit and small animals
+Malay peninsula and Borneo
+https://upload.wikimedia.org/wikipedia/commons/6/6f/Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg
+57
+Cape Porcupine
+Hystrix africaeaustralis
+Mammal
+Nocturnal
+2.5
+3.0
+40.0
+65.0
+15.0
+Savannah, scrubland and forest
+Fruit, roots, tubers and bulbs
+Central and Southern Africa
+https://upload.wikimedia.org/wikipedia/commons/b/b4/Hystrix_africaeaustralis_Blijdorp_Rotterdam.JPG
+58
+Greater Bushbaby
+Otolemur garnetti
+Mammal
+Nocturnal
+0.75
+0.83
+1.5
+1.8
+14.0
+Forest
+Fruit and insects
+Eastern Africa
+https://upload.wikimedia.org/wikipedia/commons/d/de/Garnett%27s_Galago_%28Greater_Bushbaby%29.jpg
+59
+Malayan Tiger
+Panthera tigris jacksoni
+Mammal
+Nocturnal
+7.6
+9.3
+220.0
+400.0
+15.0
+Forest
+Deer, wild pigs, and cattle
+Malaysia and southern Thailand
+https://upload.wikimedia.org/wikipedia/commons/6/62/MalayanTiger01.jpg
+62
+Western Gaboon Viper
+Bitis rhinoceros
+Reptile
+Nocturnal
+4.0
+6.0
+40.0
+45.0
+20.0
+Tropical forest
+Rodents and other small mammals
+Central Africa
+https://upload.wikimedia.org/wikipedia/commons/9/98/Bitis_gabonica.jpg
+66
+Blue-crowned Laughing Thrush
+Garrulax galbanus courtoisi
+Bird
+Diurnal
+0.7
+0.8
+0.1
+0.15
+30.0
+Grassland and scrubland
+Fruits, berries, and insects
+Southern Asia
+https://upload.wikimedia.org/wikipedia/commons/8/84/Blue-crowned_Laughingthrush_10.jpg
+68
+Greater Flamingo
+Phoenicopterus roseus
+Bird
+Diurnal
+3.5
+5.0
+6.0
+7.0
+35.0
+Wetlands
+Seeds, algae, and small invertebrates
+Africa, Southwest Europe, and Asia
+https://upload.wikimedia.org/wikipedia/commons/a/a9/Flamant_rose_Salines_de_Thyna.jpg
+69
+Golden-headed Lion Tamarin
+Leontopithecus chrysomelas
+Mammal
+Diurnal
+0.7
+1.1
+1.0
+1.5
+11.0
+Tropical rainforest
+Fruit, flowers, nectar, gum and small animals
+Eastern Brazil
+https://upload.wikimedia.org/wikipedia/commons/3/3d/Leontopithecus_chrysomelas_%28portrait%29.jpg
+70
+Fairy Bluebird
+Irena puella
+Bird
+Diurnal
+0.75
+0.9
+0.03
+0.18
+12.0
+Forest
+Fruit, nectar, and insects
+South and Southeast Asia
+https://upload.wikimedia.org/wikipedia/commons/3/3f/Fairy_bluebird_male_-_Irena_puella.jpg
+71
+Ring-tailed Lemur
+Lemur catta
+Mammal
+Diurnal
+1.3
+1.5
+5.0
+8.0
+16.0
+Forest
+Fruit, leaves, flowers and insects
+Southern and Southwestern Madagascar
+https://upload.wikimedia.org/wikipedia/commons/0/0b/Ring-tailed_lemur_%28Lemur_catta%29.jpg
+72
+Salmon-Crested Cockatoo
+Cacatua moluccensis
+Bird
+Diurnal
+1.51
+1.71
+1.5
+2.2
+80.0
+Forest and mountains
+Seeds and fruit
+Southern Moluccas, Indonesia
+https://upload.wikimedia.org/wikipedia/commons/b/b8/Cacatua_moluccensis_-Cincinnati_Zoo-8a.jpg
+73
+Yellow-backed Duiker
+Cephalophus silvicultor
+Mammal
+Diurnal
+3.75
+4.75
+100.0
+175.0
+10.0
+Dense tropical forest
+Bark, shoots, buds, seeds, fruits, fungi, herbs and some small animals
+Western central Africa
+https://upload.wikimedia.org/wikipedia/commons/4/47/Cephalophus_sylvicultor_sylvicultor2.jpg
+79
+Burmese Python
+Python molurus
+Reptile
+Nocturnal
+16.0
+25.0
+140.0
+200.0
+20.0
+Tropical forest
+Birds, mammals, and reptiles
+Southern and Southeastern Asia
+https://upload.wikimedia.org/wikipedia/commons/8/85/Burmese_python_%286887388927%29.jpg
+80
+Blue-tongued Skink
+Tiliqua scincoides scincoides
+Reptile
+Diurnal
+1.5
+1.7
+0.63
+1.3
+20.0
+Grassland, forest, and desert
+Snails and other invertebrates, carrion, fruits, berries, and flowers
+Australia, including Tasmania
+https://upload.wikimedia.org/wikipedia/commons/7/7b/Tiliqua_scincoides_scincoides_01.jpg
+81
+Tawny Frogmouth
+Podargus strigoides
+Bird
+Nocturnal
+1.4
+1.7
+1.0
+1.3
+20.0
+Forest
+Insects, spiders, worms and other small animals
+Australia
+https://upload.wikimedia.org/wikipedia/commons/9/90/Tawny_Frogmouth_%28Coverdale%29.jpg
+82
+Siamang
+Hylobates syndactylus
+Mammal
+Diurnal
+1.9
+2.0
+20.0
+23.0
+23.0
+Tropical rainforest
+Primarily fruit and leaves, some invertebrates
+Malaysia and Sumatra
+https://upload.wikimedia.org/wikipedia/commons/a/a4/DPPP_5348.jpg
+83
+Ring-tailed Lemur
+Lemur catta
+Mammal
+Diurnal
+1.3
+1.5
+5.0
+8.0
+16.0
+Forest
+Fruit, leaves, flowers and insects
+Southern and Southwestern Madagascar
+https://upload.wikimedia.org/wikipedia/commons/0/0b/Ring-tailed_lemur_%28Lemur_catta%29.jpg
+88
+Florida Manatee
+Trichechus manatus latirostris
+Mammal
+Diurnal
+8.0
+15.0
+3000.0
+2500.0
+60.0
+Costal wetlands
+Aquatic plants
+Southeastern United States
+https://upload.wikimedia.org/wikipedia/commons/1/1e/Manatee_at_Sea_World_Orlando_Mar_10.JPG
+89
+Sumatran Orangutan
+Pongo pygmaeus abelii
+Mammal
+Diurnal
+2.5
+2.7
+88.0
+200.0
+28.0
+Tropical rainforest
+Fruit, shoots, bark, insects, vines, bird eggs, and small vertebrates
+Northern Sumatra
+https://upload.wikimedia.org/wikipedia/commons/2/2c/Sumatra-Orang-Utan_im_Pongoland.jpg
+96
+Blue-tongued Skink
+Tiliqua scincoides scincoides
+Reptile
+Diurnal
+1.5
+1.7
+0.63
+1.3
+20.0
+Grassland, forest, and desert
+Snails and other invertebrates, carrion, fruits, berries, and flowers
+Australia, including Tasmania
+https://upload.wikimedia.org/wikipedia/commons/7/7b/Tiliqua_scincoides_scincoides_01.jpg
+97
+Black-breasted Leaf Turtle
+Geoemyda spengleri
+Reptile
+Diurnal
+0.2
+0.35
+0.2
+0.4
+20.0
+Mountain forest
+Invertebrates and fruit
+China and Vietnam
+https://upload.wikimedia.org/wikipedia/commons/d/d6/Stavenn_Geoemyda_spengleri.jpg
+98
+White-cheeked Bulbul
+Pycnonotus leucotis
+Bird
+Diurnal
+0.58
+0.63
+0.05
+0.06
+9.0
+Grassland, shrubland and woodland
+Fruit and insects
+Middle East and Western Asia
+https://upload.wikimedia.org/wikipedia/commons/3/3b/White-eared_bulbul.jpg
+99
+Mexican Wolf
+Canis lupus baileyei
+Mammal
+Nocturnal
+4.75
+5.0
+60.0
+80.0
+11.0
+Mountain and forest
+Elk, deer, peccaries, rabbits, rodents, and carrion
+Arizona and New Mexico
+https://upload.wikimedia.org/wikipedia/commons/c/c1/Mexican_Wolf_2_yfb-edit_1.jpg
+100
+Aardvark
+Orycteropus afer
+Mammal
+Nocturnal
+3.4
+4.2
+88.0
+143.0
+12.0
+Woodland, scrubland, and grassland
+Ants and termites
+Central and Southern Africa
+https://upload.wikimedia.org/wikipedia/commons/6/67/SanWild17.jpg
+107
+Pancake Tortoise
+Malacochersus tornieri
+Reptile
+Diurnal
+0.46
+0.54
+0.8
+1.0
+30.0
+Rocky Outcrops
+Grasses, leaves, and fruit
+Eastern central Africa
+https://upload.wikimedia.org/wikipedia/commons/9/93/Malacochersus_tornieri.jpg
+108
+Eastern Diamondback Rattlesnake
+Crotalus adamanteus
+Reptile
+Diurnal
+5.0
+8.0
+10.0
+20.0
+20.0
+Woodland, field, wetland, and scrubland
+Rabbits, squirrels and other rodents, and birds
+Southeastern United States
+https://upload.wikimedia.org/wikipedia/commons/b/bc/Crotalus_adamanteus_25.jpg
+109
+Blue-crowned Laughing Thrush
+Garrulax galbanus courtoisi
+Bird
+Diurnal
+0.7
+0.8
+0.1
+0.15
+30.0
+Grassland and scrubland
+Fruits, berries, and insects
+Southern Asia
+https://upload.wikimedia.org/wikipedia/commons/8/84/Blue-crowned_Laughingthrush_10.jpg
+111
+Boat-billed Heron
+Cochlearius cochlearius
+Bird
+Diurnal
+1.5
+1.7
+1.0
+1.3
+9.0
+Wetlands
+Fish, frogs, shrimp, and insects
+Mexico, Central and South America
+https://upload.wikimedia.org/wikipedia/commons/4/46/Cochlearius_cochleariaPCCA20071227-8443B.jpg
+112
+Ostrich
+Struthio camelus
+Bird
+Diurnal
+6.9
+9.2
+198.0
+287.0
+10.0
+Savannah, shrubland and desert
+Seeds, leaves, fruit; some insects and carrion
+Central and Southern Africa
+https://upload.wikimedia.org/wikipedia/commons/9/9d/Struthio_camelus_-_Etosha_2014_%283%29.jpg
+113
+Red River Hog
+Potamochoerus porcus
+Mammal
+Diurnal
+3.5
+5.0
+100.0
+290.0
+15.0
+Rainforest, forest and savanna woodland
+Primarily roots and bulbs, some other plant parts and small animals
+Western and central Africa
+https://upload.wikimedia.org/wikipedia/commons/4/44/Pinselohrschwein_Potamochoerus_porcus_Tierpark_Hellabrunn-5.jpg
+116
+Florida Manatee
+Trichechus manatus latirostris
+Mammal
+Diurnal
+8.0
+15.0
+3000.0
+2500.0
+60.0
+Costal wetlands
+Aquatic plants
+Southeastern United States
+https://upload.wikimedia.org/wikipedia/commons/1/1e/Manatee_at_Sea_World_Orlando_Mar_10.JPG
+121
+Chinese Crocodile Lizard
+Shinisaurus crocodilurus
+Reptile
+Diurnal
+0.55
+0.63
+0.7
+1.3
+10.0
+Forests near ponds and streams
+Snails, insects, worms, and other invertebrates
+China and Vietnam
+https://upload.wikimedia.org/wikipedia/commons/d/d7/Shinisaurus_crocodilurus_10.jpg
+122
+Bennett's Wallaby
+Macropus rufogriseus
+Marsupial
+Diurnal
+4.5
+5.5
+25.0
+50.0
+15.0
+Forest
+Grass and herbs
+Southeastern Australia, including Tasmania
+https://upload.wikimedia.org/wikipedia/commons/e/e6/Macropus_rufogriseus_rufogriseus_Bruny.jpg
+123
+White-naped Pheasant Pigeon
+Otidiphaps nobilis aruensis
+Bird
+Diurnal
+1.2
+1.5
+1.0
+1.1
+5.0
+Rainforest
+Seeds and fruits
+New Guinea and surrounding islands
+https://upload.wikimedia.org/wikipedia/commons/e/ee/Otidiphaps_nobilis_-Cincinnati_Zoo%2C_Ohio%2C_USA-8a.jpg
+124
+Sumatran Orangutan
+Pongo pygmaeus abelii
+Mammal
+Diurnal
+2.5
+2.7
+88.0
+200.0
+28.0
+Tropical rainforest
+Fruit, shoots, bark, insects, vines, bird eggs, and small vertebrates
+Northern Sumatra
+https://upload.wikimedia.org/wikipedia/commons/2/2c/Sumatra-Orang-Utan_im_Pongoland.jpg
+126
+Florida Pine Snake
+Pituophis melanoleucus mugitus
+Reptile
+Diurnal
+5.0
+7.0
+4.0
+8.0
+20.0
+Sandy soils of pine woodlands and scrubland
+Small mammals, birds and bird eggs
+Southeastern United States
+https://upload.wikimedia.org/wikipedia/commons/b/b2/G-Bartolotti_FL_pine.jpg
+130
+Crested Guineafowl
+Guttera pucherani
+Bird
+Diurnal
+1.5
+1.8
+1.6
+3.5
+15.0
+Forest and savannah
+Seeds, fruit, leaves, roots and invertebrates
+Africa
+https://upload.wikimedia.org/wikipedia/commons/6/69/Flickr_-_Rainbirder_-_Crested_Guineafowl_%28Guttera_pucherani_pucherani%29.jpg
+131
+Burmese Brown Mountain Tortoise
+Manouria emys emys
+Reptile
+Diurnal
+1.5
+2.0
+70.0
+80.0
+60.0
+Forest
+Grass, leaves, fungi, and fruit
+Southeastern Asia
+https://upload.wikimedia.org/wikipedia/commons/6/69/Manouria-emys-asian-forest-tortoise.jpg
+132
+Grey Fox
+Urocyon cinereoargenteus
+Mammal
+Nocturnal
+1.8
+2.7
+6.5
+15.0
+13.0
+Woodland
+Small mammals and birds, some fruits and seeds
+Southern Canada to northern South America
+https://upload.wikimedia.org/wikipedia/commons/6/63/Grey_Fox_%28Urocyon_cinereoargenteus%29.jpg
+133
+Tawny Frogmouth
+Podargus strigoides
+Bird
+Nocturnal
+1.4
+1.7
+1.0
+1.3
+20.0
+Forest
+Insects, spiders, worms and other small animals
+Australia
+https://upload.wikimedia.org/wikipedia/commons/9/90/Tawny_Frogmouth_%28Coverdale%29.jpg
+134
+Siamang
+Hylobates syndactylus
+Mammal
+Diurnal
+1.9
+2.0
+20.0
+23.0
+23.0
+Tropical rainforest
+Primarily fruit and leaves, some invertebrates
+Malaysia and Sumatra
+https://upload.wikimedia.org/wikipedia/commons/a/a4/DPPP_5348.jpg
+135
+Thick-Billed Parrot
+Rhynchopsitta pachyrhyncha
+Bird
+Diurnal
+1.2
+1.25
+0.69
+0.94
+10.0
+Mountain forest
+Pine cones, acorns, and berries
+Western Mexico
+https://upload.wikimedia.org/wikipedia/commons/e/e2/Rhynchopsitta_pachyrhyncha_-Arizona-Sonora_Desert_Museum%2C_Tucson%2C_Arizona%2C_USA-8a.jpg
+136
+Clouded Leopard
+Neofelis nebulosa
+Mammal
+Nocturnal
+2.0
+3.5
+24.0
+44.0
+13.0
+Forest, grassland, and wetland
+Primates, deer, wild boar, porcupines, small mammals, and birds
+Southeastern Asia
+https://upload.wikimedia.org/wikipedia/commons/a/ab/Clouded_Leopard_Neofelis_nebulosa_by_Dr_Raju_Kasambe_DSC_7497_%2828%29.JPG
+137
+Azureus Cichlid
+Copadichromis azureus
+Fish
+Diurnal
+0.42
+0.55
+0.5
+0.75
+8.0
+Lakes
+Plankton
+Africa
+https://upload.wikimedia.org/wikipedia/commons/0/04/Copadichromis_azureus.jpg
+138
+Two-toed Amphiuma
+Amphiuma means
+Amphibian
+Nocturnal
+3.0
+4.0
+0.09
+2.3
+20.0
+Swamps, ponds and other still waters
+Fish, frogs, crayfish, and small snakes
+Southeastern United States
+https://upload.wikimedia.org/wikipedia/commons/4/44/Amphiuma_%28two-toed%29.jpg
+139
+Alligator Gar
+Lepisosteus spatula
+Fish
+Nocturnal
+8.0
+10.0
+250.0
+300.0
+50.0
+Rivers, lakes and other bodies of fresh and brackish water
+Fish and other small animals
+North America
+https://upload.wikimedia.org/wikipedia/commons/1/16/Alligator_Gar_10.JPG
+140
+White-Faced Saki
+Pithecia pithecia
+Mammal
+Diurnal
+1.0
+1.2
+4.0
+4.5
+11.0
+Tropical rainforest
+Fruit, seeds, honey, leaves, flowers, small mammals and birds
+Northern South America
+https://upload.wikimedia.org/wikipedia/commons/b/b3/White-faced_Saki_2008-07.jpg
+141
+Giant Fruit Bat
+Pteropus giganteus
+Mammal
+Nocturnal
+0.85
+1.0
+2.0
+3.0
+31.0
+Tropical forest and wetland
+Primarily fruit and flowers (juice & nectar), some insects
+Southern Asia
+https://upload.wikimedia.org/wikipedia/commons/f/f2/Lyles_flyvende_hund_Pteropus_lylei.jpg
+142
+Scarlet Ibis
+Eudocimus ruber
+Bird
+Diurnal
+2.1
+2.2
+1.3
+1.4
+12.0
+Coastal wetlands
+Small crayfish, snails and amphibians
+Northern South America
+https://upload.wikimedia.org/wikipedia/commons/f/f7/Scarlet_Ibis_SMTC.jpg
+143
+Lady Ross' Turaco
+Musophaga rossae
+Bird
+Diurnal
+1.25
+1.5
+0.8
+1.0
+10.0
+Forest
+Fruit and berries; some insects
+Central Africa
+https://upload.wikimedia.org/wikipedia/commons/f/fa/Musophaga_rossae_-Lady_Ross%27_Turaco_-Houston_Zoo.jpg
+144
+Grey Crowned Crane
+Balearica regulorum
+Bird
+Diurnal
+3.3
+3.5
+6.5
+8.7
+25.0
+Wetlands and grasslands
+Grasses, seeds, insects, and other small animals
+Eastern and southern Africa
+https://upload.wikimedia.org/wikipedia/commons/5/5f/Grey_crowned_crane_at_Martin_Mere.JPG
+145
+Alligator Gar
+Lepisosteus spatula
+Fish
+Nocturnal
+8.0
+10.0
+250.0
+300.0
+50.0
+Rivers, lakes and other bodies of fresh and brackish water
+Fish and other small animals
+North America
+https://upload.wikimedia.org/wikipedia/commons/1/16/Alligator_Gar_10.JPG
+146
+Aardvark
+Orycteropus afer
+Mammal
+Nocturnal
+3.4
+4.2
+88.0
+143.0
+12.0
+Woodland, scrubland, and grassland
+Ants and termites
+Central and Southern Africa
+https://upload.wikimedia.org/wikipedia/commons/6/67/SanWild17.jpg
+147
+Aardvark
+Orycteropus afer
+Mammal
+Nocturnal
+3.4
+4.2
+88.0
+143.0
+12.0
+Woodland, scrubland, and grassland
+Ants and termites
+Central and Southern Africa
+https://upload.wikimedia.org/wikipedia/commons/6/67/SanWild17.jpg
+148
+Guam Rail
+Hypotaenidia owstoni
+Bird
+Diurnal
+0.83
+0.92
+0.5
+0.66
+10.0
+Forest and grassland
+Small animals, carrion, seeds, and leaves
+Guam
+https://upload.wikimedia.org/wikipedia/commons/5/5e/GuamRail02.jpg
+150
+Ornate Horned Frog
+Ceratophrys ornata
+Reptile
+Diurnal
+0.25
+5.0
+0.85
+1.0
+6.0
+Rainforest
+Lizards, mice, frogs, insects, and other small animals
+Argentina, Uruguay, and southern Brazil
+https://upload.wikimedia.org/wikipedia/commons/2/2b/Mr_Wiggles_7-20-07_%28870844637%29.jpg
+151
+Brazilian Porcupine
+Coendou prehensilis
+Mammal
+Nocturnal
+1.5
+1.7
+9.0
+11.0
+17.0
+Tropical rainforest
+Leaves, bark, fruits, shoots and small animals
+Northern and eastern South America
+https://upload.wikimedia.org/wikipedia/commons/c/c5/Prehensile-tailed_porcupine.jpg
+152
+Ring-tailed Lemur
+Lemur catta
+Mammal
+Diurnal
+1.3
+1.5
+5.0
+8.0
+16.0
+Forest
+Fruit, leaves, flowers and insects
+Southern and Southwestern Madagascar
+https://upload.wikimedia.org/wikipedia/commons/0/0b/Ring-tailed_lemur_%28Lemur_catta%29.jpg
+153
+Raggiana Bird-of-paradise
+Paradisaea raggiana
+Bird
+Diurnal
+0.9
+1.1
+0.44
+0.75
+8.0
+Forest
+Fruit, berries, insects, frogs, and lizards
+New Guinea
+https://upload.wikimedia.org/wikipedia/commons/c/c6/Raggiana_bird_of_paradise.jpg
+154
+Fennec Fox
+Vulpes zerda
+Mammal
+Nocturnal
+9.5
+16.0
+2.3
+3.3
+11.0
+Desert
+Fruit, seeds, eggs, termites, and lizards
+Northern Africa and western Asia
+https://upload.wikimedia.org/wikipedia/commons/9/9c/Fennec_Fox.jpg
+155
+Screaming Hairy Armadillo
+Chaetophractus vellerosus
+Mammal
+Diurnal
+1.0
+1.3
+1.75
+2.0
+16.0
+Desert, grassland, scrubland, and forest
+Plants, insects, and other small animals
+Central South America
+https://upload.wikimedia.org/wikipedia/commons/5/5d/Chaetophractus_vellerosus3.jpg
+156
+Screaming Hairy Armadillo
+Chaetophractus vellerosus
+Mammal
+Diurnal
+1.0
+1.3
+1.75
+2.0
+16.0
+Desert, grassland, scrubland, and forest
+Plants, insects, and other small animals
+Central South America
+https://upload.wikimedia.org/wikipedia/commons/5/5d/Chaetophractus_vellerosus3.jpg
+157
+Mini-Juliana Pig
+Sus domesticus
+Mammal
+Diurnal
+2.0
+2.2
+35.0
+55.0
+18.0
+Domestic habitat
+Pellets, fruits and veggies
+Raised domestically around the world
+https://americanminipigassociation.com/wp-content/uploads/2015/03/image-3-e1426360082120.jpeg
+158
+Green Tree Monitor
+Varanus prasinus
+Reptile
+Diurnal
+2.5
+3.3
+0.6
+0.7
+20.0
+Forest and swamp
+Small animals, such as insects and crabs, and eggs
+New Guinea and northern Australia
+https://upload.wikimedia.org/wikipedia/commons/d/d6/Varanus_prasinus.jpg
