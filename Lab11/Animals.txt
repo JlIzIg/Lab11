@@ -1398,17 +1398,115 @@ Domestic habitat
 Pellets, fruits and veggies
 Raised domestically around the world
 https://americanminipigassociation.com/wp-content/uploads/2015/03/image-3-e1426360082120.jpeg
-158
-Green Tree Monitor
-Varanus prasinus
+159
+Fennec Fox
+Vulpes zerda
+Mammal
+Nocturnal
+9.5
+16.0
+2.3
+3.3
+11.0
+Desert
+Fruit, seeds, eggs, termites, and lizards
+Northern Africa and western Asia
+https://upload.wikimedia.org/wikipedia/commons/9/9c/Fennec_Fox.jpg
+160
+Rough Green Snake
+Opheodrys aestivus
 Reptile
 Diurnal
-2.5
-3.3
-0.6
+1.83
+2.67
+0.02
+0.12
+10.0
+Moist woodland
+Insects and spiders
+Southeastern United States
+https://upload.wikimedia.org/wikipedia/commons/b/bd/Rough_Green_Snake.jpg
+162
+Sunbittern
+Eurypyga helias
+Bird
+Diurnal
+1.5
+1.67
+0.38
+0.56
+15.0
+Wetlands
+Insects and other small animals
+Southern Mexico to northern South America
+https://upload.wikimedia.org/wikipedia/commons/d/da/Sunbittern_%28Eurypyga_helias%29.JPG
+163
+Golden-headed Lion Tamarin
+Leontopithecus chrysomelas
+Mammal
+Diurnal
 0.7
-20.0
-Forest and swamp
-Small animals, such as insects and crabs, and eggs
-New Guinea and northern Australia
-https://upload.wikimedia.org/wikipedia/commons/d/d6/Varanus_prasinus.jpg
+1.1
+1.0
+1.5
+11.0
+Tropical rainforest
+Fruit, flowers, nectar, gum and small animals
+Eastern Brazil
+https://upload.wikimedia.org/wikipedia/commons/3/3d/Leontopithecus_chrysomelas_%28portrait%29.jpg
+164
+African Lion
+Panthera leo
+Mammal
+Diurnal
+8.5
+10.0
+330.0
+530.0
+16.0
+Savannah, woodland, and desert
+Hoofed mammals, hares, small birds and reptiles
+Africa
+https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg
+165
+Wood Duck
+Aix sponsa
+Bird
+Diurnal
+1.5
+1.7
+1.8
+2.0
+15.0
+Wetlands and forest
+Seeds, fruit and invertebrates
+North America
+https://upload.wikimedia.org/wikipedia/commons/d/d3/Wood_Duck_%28Aix_sponsa%29%2C_Parc_du_Rouge-Clo%C3%AEtre%2C_Brussels.jpg
+166
+Bat-eared Fox
+Otocyon megalotis
+Mammal
+Nocturnal
+1.5
+2.2
+7.0
+12.0
+13.0
+Savannah
+Primarily termites, beetles, and other insects
+Eastern and Southern Africa
+https://upload.wikimedia.org/wikipedia/commons/8/84/Otocyon_megalotis_-_Etosha_2014.jpg
+167
+African Lion
+Panthera leo
+Mammal
+Diurnal
+8.5
+10.0
+330.0
+530.0
+16.0
+Savannah, woodland, and desert
+Hoofed mammals, hares, small birds and reptiles
+Africa
+https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg

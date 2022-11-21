@@ -107,7 +107,7 @@ public class AnimalsController implements Initializable { //NOPMD - suppressed A
         connection = null;
         dataBaseAnimals = new DataBaseAnimals();
         saveAnimal = new SaveAnimal();
-        chooseFormat.getItems().addAll( ".txt", ".json",".xls");
+        chooseFormat.getItems().addAll(".txt", ".json", ".xls");
         chooseFormat.setOnAction(this::getFormat);
         chooseAction.getItems().addAll("Connect to DB", "Load Data", "Add One Animal", "Exit");
         chooseAction.setOnAction(this::getAction);
@@ -145,7 +145,6 @@ public class AnimalsController implements Initializable { //NOPMD - suppressed A
      * выбор формата в котором сохраняется таблица в файл
      */
     public void getFormat(ActionEvent event) {
-        saveAnimal.setTableView(table1);
         String formatValue = chooseFormat.getValue();
         switch (formatValue) {
             case (".txt"):
